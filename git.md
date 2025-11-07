@@ -16,3 +16,12 @@ git pull
 ## undo change 
 git revert [commit hash]
 
+## check history
+git log --oneline
+
+
+## Branch
+
+git branch [branch name]
+git checkout [branch name]
+
