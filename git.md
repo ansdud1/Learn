@@ -1,27 +1,26 @@
-git clone
-git init
+* git clone
+* git init
 
 ## handle remote repo
-git remote add origin "url"
-git push --set-upstream origin main
+* git remote add origin "url"
+* git push --set-upstream origin main
 
 
-git add
-git restore
+* git add
+* git restore
 
-git commit
-git push
-git pull
+* git commit
+* git push
+* git pull
 
 ## undo change 
-git revert [commit hash]
+* git revert [commit hash]
 
 ## check history
-git log --oneline
+* git log --oneline
 
 
 ## Branch
-
-git branch [branch name]
-git checkout [branch name]
+* git branch [branch name]
+* git checkout [branch name]
 
