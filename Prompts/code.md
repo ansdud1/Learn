@@ -31,3 +31,30 @@ Outcomes:
 - Improve readability
 - Reusable code.
 - Maintainable 
+
+
+##############  PR Summary and check list  ###############
+Provide a PR Summary for these change
+
+- Provide a review checklist.
+- Summarize
+- Commit message with description.
+
+##############  Testing  ###############
+Generate automated Unit tests for frontend.
+
+- identify edge cases
+- identify error cases
+- Use vite tests
+- Boundaries should be considered
+
+##############  Deploy CI/CD  ###############
+Create a CI pipeline for this repo with Github actions workflows
+
+- It should be able to run tests
+- Check Linting
+- Build the project
+- Deploy
+
+  
+##############    ###############
